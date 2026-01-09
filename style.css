@@ -44,6 +44,11 @@ nav ul li {
   font-weight: 600;
   color: white;
   border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #469165;
 }
 
 section.hero {
